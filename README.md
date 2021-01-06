@@ -1,7 +1,17 @@
 <h1 align="center">Java Demos</h1>
 <p align="center">
+<p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Jack%20Cui-lightgrey.svg" alt="公众号"></a>
+  <a href="https://space.bilibili.com/616743906"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="B站"></a>
+  <a href="https://jiming.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAXazl8Yq1wrLrYs4PwJiudL4bbm-9ClLU4P-RuUZHKQ0/" target="_blank"><img src="https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-important.svg" alt="头条"></a>
+</p>
+
 收录了「IT无知君」CSDN博客中涉及的项目源码，新技术论证，还有许多的开发工具类，本仓库在持续更新中，敬请期待...
  
+原创文章每周最少一篇，**最新文章**会在[【公众号】]()首发，**视频**[【B站】]()首发，**后续**会同步到我的[【CSDN】](https://jiming.blog.csdn.net)博客，大家可以私信我，技术交流或提意见都可以，欢迎**Star**！
+
 ## 功能
 ### daily-demos 模块
 收录了我日常的练习代码，里面多一些新技术，新插件的测试，验证没问题后会添加到 【tool-demos】 模块中。
