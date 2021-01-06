@@ -8,10 +8,10 @@
         <version>2.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jiming</groupId>
-    <artifactId>daily</artifactId>
+    <groupId>com.jiming.daily</groupId>
+    <artifactId>daily-demos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>daily</name>
+    <name>daily-demos</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
